@@ -18,7 +18,7 @@ class Footer extends Component {
                             <div className="col-xs-12 col-sm-4 col-md-4">
                                 <h5>Quick links</h5>
                                 <ul className="list-unstyled quick-links">
-                                    <li><Link className="nav-link" to="/home">Home</Link></li>
+                                    <li><Link className="nav-link" to="/">Home</Link></li>
                                     <li><Link className="nav-link" to="/news">News</Link></li>
                                     <li><Link className="nav-link" to="/profile">Profile</Link></li>
                                 </ul>
